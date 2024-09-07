@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-A computer science student with a passion for blockchain technology, cybersecurity, and software development.<br>I have a solid foundation in C#, Solidity, and ASP.NET Core, and I'm actively working on projects that integrate Web3 solutions, decentralized applications, and cybersecurity principles.
+A computer science student with a passion for blockchain technology, cybersecurity, and software development.
+
+Building on a strong foundation in C#, Solidity, and ASP.NET Core, I'm currently engaged in projects that fuse Web3 technologies, decentralized applications, and cybersecurity practices.
 
 ## 🌐 Socials:
 
