@@ -1,8 +1,5 @@
-# 💫 About Me:
+> _I do not like it, and I am sorry I ever had anything to do with it._
 
-A computer science student with a passion for blockchain technology, cybersecurity, and software development.
-
-Building on a strong foundation in C#, Solidity, and ASP.NET Core, I'm currently engaged in projects that fuse Web3 technologies, decentralized applications, and cybersecurity practices.
 
 ## 🌐 Socials:
 
