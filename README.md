@@ -1,4 +1,4 @@
-> _I do not like it, and I am sorry I ever had anything to do with it._
+> _There's no best way, there's a way._
 
 
 ## 🌐 Socials:
