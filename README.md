@@ -5,7 +5,7 @@
 
 <center>
 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/RealVrach) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/agspadez)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/RealVrach) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sampurkayet)
 
 </center>
 
