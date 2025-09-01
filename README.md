@@ -14,6 +14,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=agspades&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agspades&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 👨‍💻 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/agspades?theme=dark&font=Marcellus&ext=activity)
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=agspades&theme=radical&no-frame=false&no-bg=true&margin-w=4)
