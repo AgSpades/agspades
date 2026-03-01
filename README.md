@@ -1,4 +1,4 @@
-> There is a way...
+> Building AI agents, secure systems, and backend infrastructure.
 
 ## 🌐 Socials:
 
