@@ -9,6 +9,9 @@
     <img src="https://raw.githubusercontent.com/agspades/agspades/output/snake.svg" alt="Snake Animation" />
 </picture>
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agspades&theme=rogue" alt="Contribution Graph" />
-
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=agspades&theme=rogue" alt="Contribution Graph" /> -->
+<!--Koi Animation-->
+<picture>
+<img src="koi/koi.gif" width="256" alt="My koi" />
+</picture>
 </div>
